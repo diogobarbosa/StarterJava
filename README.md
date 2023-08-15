@@ -1,2 +1,0 @@
-# StarterJava
-Projeto de exemplo
