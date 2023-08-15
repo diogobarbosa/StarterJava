@@ -4,4 +4,6 @@ public class Cachorro {
 
     String nome;
     Integer idade;
+
+    String dono;
 }
