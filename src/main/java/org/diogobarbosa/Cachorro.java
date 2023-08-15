@@ -6,5 +6,5 @@ public class Cachorro {
     String raca;
     Integer idade;
 
-    String dono;
+    String donox;
 }
